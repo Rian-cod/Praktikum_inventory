@@ -31,7 +31,8 @@
     <div class="login-container">
         <div class="card card-primary card-outline mb-4">
             <div class="card-header text-center">
-                <h3 class="card-title float-none">Inventory System</h3>
+            <img src="assets/img/gambar.png" width="100"height="100" alt="icon">
+                <h3 class="card-title float-none">Sakura Mobilindo</h3>
             </div>
             <form action="login.php" method="post">
                 <div class="card-body">
